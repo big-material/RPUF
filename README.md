@@ -18,4 +18,4 @@ streamlit run runner.py
 
 # Reference
 
-Evaluate dataset quality using correlation convergency inspired from perturbation theory. submit.
+Predict the density, thermal conductivity and compressive strength of rigid polyurethane foams. submit.
