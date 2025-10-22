@@ -14,6 +14,9 @@ It is used to predict the apparent density (AD), thermal conductivity (TC) and c
 ```bash
 streamlit run runner.py
 ```
+### 2. Possible issues and solutions in running releases
+#### a. If you cannot run the .exe file, please run it as an administrator.
+#### b. After entering the interface, it takes time to wait or refresh once
 
 # Reference
 
