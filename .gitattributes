@@ -1,1 +1,5 @@
 /codes/00-data[[:space:]]processing/00-figure/平行实验-3-箱线图.jpg filter=lfs diff=lfs merge=lfs -text
+/00-data[[:space:]]processing/00-figure/平行实验-3-箱线图.jpg filter=lfs diff=lfs merge=lfs -text
+/01-predict/02-blind/AD.tiff filter=lfs diff=lfs merge=lfs -text
+/01-predict/02-blind/CS.tiff filter=lfs diff=lfs merge=lfs -text
+/01-predict/02-blind/TC.tiff filter=lfs diff=lfs merge=lfs -text
