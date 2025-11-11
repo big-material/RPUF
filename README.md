@@ -20,4 +20,4 @@ streamlit run runner.py
 
 # Reference
 
-Predict the density, thermal conductivity and compressive strength of rigid polyurethane foams. submited.
+Data-driven models to explore regulatable variables for the density, thermal conductivity and compressive strength of rigid polyurethane foams. submited.
